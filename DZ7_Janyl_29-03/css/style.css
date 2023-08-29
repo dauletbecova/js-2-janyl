@@ -1,0 +1,10 @@
+body{
+    background-color: darkgrey;
+}
+button {
+    background-color: lime;
+    width: 120px;
+    height: 40px;
+    border-radius: 8px;
+}
+
